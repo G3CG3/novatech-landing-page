@@ -44,5 +44,5 @@ These solutions are intended for educational purposes only. Please use them resp
 ---
 
 ## Author
-George
-Java enthusiast & aspiring full-stack developer
+*George*    
+*Java enthusiast & aspiring full-stack developer*
