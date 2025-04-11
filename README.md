@@ -27,7 +27,7 @@ This project focuses on modern front-end development using **HTML5**, **CSS3**, 
 
 ---
 
-## 📷 Image Credits
+## Image Credits
 
 All images used in this project are sourced from:
 
@@ -35,3 +35,14 @@ All images used in this project are sourced from:
 - [**Freepik**](https://www.freepik.com/) — Free graphic resources (used where credited)
 
 > Images are used solely for educational and non-commercial purposes as part of the Codecademy Flexbox project.
+
+---
+
+## Disclaimer
+These solutions are intended for educational purposes only. Please use them responsibly and avoid submitting them directly for assessments.
+
+---
+
+## Author
+George
+Java enthusiast & aspiring full-stack developer
