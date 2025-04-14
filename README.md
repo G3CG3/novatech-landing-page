@@ -39,7 +39,7 @@ All images used in this project are sourced from:
 ---
 
 ## Disclaimer
-These solutions are intended for educational purposes only. Please use them responsibly and avoid submitting them directly for assessments.
+This project is intended for educational purposes only. Please use it responsibly and avoid submitting it directly for assessments.
 
 ---
 
